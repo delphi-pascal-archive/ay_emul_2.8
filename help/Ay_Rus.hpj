@@ -1,0 +1,19 @@
+; This file is maintained by HCW. Do not modify this file directly.
+
+[OPTIONS]
+COMPRESS=12 Hall Zeck
+LCID=0x419 0x0 0x0 ; –усский
+REPORT=Yes
+CHARSET=1
+FTS=1
+TITLE=Ёмул€тор AY-3-8910.
+CNT=.\Ay_Rus.cnt
+COPYRIGHT=© 1999 - 2005 S.V. Bulba
+DEFFONT=MS Sans Serif,8,0
+HLP=.\Ay_Rus.hlp
+
+[FILES]
+.\Ay_Rus.rtf
+
+[WINDOWS]
+Main="Ёмул€тор музыкального сопроцессора ZX Spectrum",,28420,(r16777215),(r12632256),f2

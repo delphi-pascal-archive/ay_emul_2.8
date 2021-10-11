@@ -1,0 +1,44 @@
+:BASE Ay_Eng.hlp
+:TITLE AY-3-8910 Emulator.
+1 Introduction
+2 What is AY-3-8910/12 Emulator=Whatdo
+2 Whats new in this version=WhatsNew
+1 Emulator using
+2 Main window elements=Controls
+2 "Mixer" dialog box=Mixer
+2 "Tools" dialog box=Tools
+2 "Playlist" window=PlayList
+2 "List's item adjusting" dialog box=PlayListItem
+2 "Information in the file header" dialog box=Header
+2 Command line=CommandLine
+1 Strange behaviour of Emulator
+2 Playing order=PlayingOrder
+2 Looping melody=Looping
+2 Starting time of Emulator=StartingEmul
+2 Files opening=fopen
+2 Converting from OUT and ZXAY=outzxay
+2 Seeking tunes=slider
+2 How to interrupt converting=intconv
+2 Windows managing=winman
+1 Files formats
+2 OUT=OUT
+2 ZXAY=ZXAY
+2 ZX50=ZX50
+2 STC=STC
+2 ZXS=ZXS
+2 ASC=ASC
+2 FXM=FXM
+2 YM=YM
+2 VTX=VTX
+2 PSG=PSG
+2 AY=AY
+2 AYM=AYM
+1 Emulator support
+2 Distribution=Distribution
+2 Music archives=MusicArch
+2 Skin files=SkinFiles
+2 Official Emulator Page=Homepage
+2 Contact with author=email
+1 Authors and other peoples
+2 Message of thanks=blago
+2 Authors=Authors
